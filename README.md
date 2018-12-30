@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Geocode addresses to coordinates
 
 [![Latest Version](https://img.shields.io/github/release/spatie/geocoder.svg?style=flat-square)](https://github.com/spatie/geocoder/releases)
@@ -241,3 +242,7 @@ All pledges will be dedicated to allocating workforce on maintenance and new awe
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+=======
+# geocoder
+Testing Geocoder
+>>>>>>> fbde02bac4d30460cee67ca101b854040c9e1732
